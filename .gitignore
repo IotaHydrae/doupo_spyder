@@ -10,6 +10,7 @@ __pycache__/
 .Python
 build/
 venv/
+.idea/
 folder/
 develop-eggs/
 dist/
