@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6192ce7-9ac1-4473-ae83-91e866443277" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbTJWWlm7V6JWJShvFjrRB8MZd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssrr自动签到" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Python.html_outputer">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="doupo_spyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Annaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_url" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="doupo_spyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Annaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="html_outputer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="doupo_spyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Annaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/html_outputer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="doupo_spyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Annaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spyder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="doupo_spyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Annaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spyder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="url_maker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="doupo_spyder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Annaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/url_maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.html_outputer" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.spyder" />
+        <item itemvalue="Python.get_url" />
+        <item itemvalue="Python.url_maker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6192ce7-9ac1-4473-ae83-91e866443277" name="Default Changelist" comment="" />
+      <created>1581313722256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581313722256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1075" y="562" width="1092" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581342922990">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1075" y="562" width="1092" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581342922990" />
+    <state x="1078" y="523" key="FileChooserDialogImpl" timestamp="1585831348991">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1078" y="523" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585831348991" />
+    <state width="1384" height="273" key="GridCell.Tab.0.bottom" timestamp="1581347003576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581347003576" />
+    <state width="1384" height="273" key="GridCell.Tab.0.center" timestamp="1581347003576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="273" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581347003576" />
+    <state width="1384" height="273" key="GridCell.Tab.0.left" timestamp="1581347003576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="273" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581347003576" />
+    <state width="1384" height="273" key="GridCell.Tab.0.right" timestamp="1581347003576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="273" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581347003576" />
+    <state width="1384" height="337" key="GridCell.Tab.1.bottom" timestamp="1581346982630">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="337" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581346982630" />
+    <state width="1384" height="337" key="GridCell.Tab.1.center" timestamp="1581346982630">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="337" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581346982630" />
+    <state width="1384" height="337" key="GridCell.Tab.1.left" timestamp="1581346982630">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="337" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581346982630" />
+    <state width="1384" height="337" key="GridCell.Tab.1.right" timestamp="1581346982630">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1384" height="337" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581346982630" />
+    <state x="1110" y="520" key="SettingsEditor" timestamp="1581343184567">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="520" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581343184567" />
+  </component>
+</project>
